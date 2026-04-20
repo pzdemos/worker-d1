@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "worker-d1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "568b2a59-069e-40a5-9435-c602f5833a9d",
+			"database_name": "shelter"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
